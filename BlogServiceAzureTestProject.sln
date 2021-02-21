@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{CEEF1518-7DE7-4B82-9501-E5D42E4D43B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog.Models", "Blog.Models\Blog.Models.csproj", "{11ED0756-FFFD-4AFD-A6A4-667A24294DF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogService.SaveFunction", "BlogService.SaveFunction\BlogService.SaveFunction.csproj", "{96A3957C-23E3-4BA2-852F-8C62E7282F10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEEF1518-7DE7-4B82-9501-E5D42E4D43B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEF1518-7DE7-4B82-9501-E5D42E4D43B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEF1518-7DE7-4B82-9501-E5D42E4D43B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEF1518-7DE7-4B82-9501-E5D42E4D43B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11ED0756-FFFD-4AFD-A6A4-667A24294DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11ED0756-FFFD-4AFD-A6A4-667A24294DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11ED0756-FFFD-4AFD-A6A4-667A24294DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11ED0756-FFFD-4AFD-A6A4-667A24294DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A3957C-23E3-4BA2-852F-8C62E7282F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A3957C-23E3-4BA2-852F-8C62E7282F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A3957C-23E3-4BA2-852F-8C62E7282F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A3957C-23E3-4BA2-852F-8C62E7282F10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
